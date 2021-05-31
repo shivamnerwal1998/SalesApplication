@@ -81,6 +81,7 @@ const drawItemList = (data) => {
             if (this.checked == true) {
 
                 cart.push(createEntry(id, Name, Price));
+                showDetails();
                 displayCart(id);
             }
             else if (this.checked == false) {
@@ -101,7 +102,7 @@ const createEntry = (ItemId, ItemName, ItemPrice) => {
         id: ItemId,
         Name: ItemName,
         Price: ItemPrice,
-        quantity: 0
+        quantity: 1
 
     };
     return article;
