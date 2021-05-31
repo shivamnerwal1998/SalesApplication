@@ -14,14 +14,20 @@
     {
         
         "id": 2,
-        "Name": "Mustard oil ",
+        "Name": "Pizza ",
         "Price": 400
     } ,
     
     {
         
         "id": 3,
-        "Name": "Sunflower oil ",
+        "Name": "Burger",
+        "Price": 400
+    } ,  
+    {
+        
+        "id": 3,
+        "Name": "French fries",
         "Price": 400
     } 
      
