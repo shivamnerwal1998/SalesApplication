@@ -1,0 +1,90 @@
+body {
+    font-family: 'Comic Neue';font-size: 22px;
+}
+#header{
+    border-bottom: solid;
+    padding-top: 3px;
+    color :black ;  
+}
+
+input[type=text] {
+    width: 90%;
+    padding: 6px 10px;
+    border-radius: 5px ;
+    box-shadow:2px 3px 4px grey; 
+  }
+
+select {
+    width: 90%;
+    padding: 10px 12px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 3px;
+    border:none; 
+    box-shadow:2px 3px 4px grey;
+  }
+   input[type=number] {
+    width: 30%;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border : none ;
+    box-shadow:1px 3px 1px grey;
+  
+  }
+  input[type= date] , [type= time] {
+    width: 30%;
+    padding: 2px 5px;
+    border : none ; 
+    border-radius: 5px ;
+    box-sizing: border-box ;
+    box-shadow:3px 2px 3px  grey;
+  }
+  
+#container{
+    margin: auto ;
+    width: 60% ;
+    border: 20px ;
+    background :beige  ;
+    box-shadow:5px 7px 8px grey;
+} 
+
+#contents{
+ 
+    padding :5px ;
+    color: black ;
+    border-bottom: solid;
+    background-color: transparent;
+    
+
+}
+#itemsContainer{
+    color:black ;
+    padding: 5px ;
+    border-bottom: solid  ;
+    background: transparent;
+
+} 
+table,td {
+    border: none ;
+    padding: 10px;
+    
+  }
+
+input[type=submit]{
+    background-color: rgba(0, 0, 0, 0.774);
+    border: none;
+    font-size: large;
+    color: white;
+    padding: 10px 12px;
+    border-radius: 7px ;
+    cursor: pointer;
+    width: 80% ;
+    box-shadow: 5px 5px 5px black;
+  } 
+  #finalDetails{
+      text-align: center;
+  }
+  input[type=submit]:hover{
+    background-color:seagreen;
+  }
+ 

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "Name": "Mango",
+        "Price": 100
+    },
+    {
+        
+        "id": 1,
+        "Name": "IceCream",
+        "Price": 200
+    },
+    
+    {
+        
+        "id": 2,
+        "Name": "Mustard oil ",
+        "Price": 400
+    } ,
+    
+    {
+        
+        "id": 3,
+        "Name": "Sunflower oil ",
+        "Price": 400
+    } 
+     
+    
+]
